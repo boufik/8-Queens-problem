@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555269561 source:c:\users\user\desktop\the 8 queens problem\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
